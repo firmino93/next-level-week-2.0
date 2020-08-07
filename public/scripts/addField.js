@@ -1,4 +1,3 @@
- 
 //procurar o botão
 document.querySelector("#add-time")
 
